@@ -1,3 +1,5 @@
+Open Humanitarian Architecture LICENSE
+
 Copyright (c) 2019, AHA 台灣義築協會
 
 All rights reserved.
